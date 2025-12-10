@@ -8,7 +8,9 @@
 <a href="https://instagram.com/paraxial_rays">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" />
 </a>
-[[email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaskishore20@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaskishore20@gmail.com)
+
 
 
 # 💻 Tech Stack:
