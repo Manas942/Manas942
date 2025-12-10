@@ -8,8 +8,10 @@
 <a href="https://instagram.com/paraxial_rays">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" />
 </a>
+<a href="mailto:manaskishore20@gmail.com">
+  <img src="https://github.com/user-attachments/assets/7a2d77c5-d62b-4d09-b136-404a9093186a" height="28">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaskishore20@gmail.com)
 
 
 
